@@ -1,0 +1,15 @@
+[user]
+	name = dbabaioff
+	email = [EMAIL]
+[color]
+	ui = true
+[core]
+	editor = vi
+[alias]
+        co = checkout
+        ci = commit
+        br = branch
+        st = status
+        lol = log --pretty=oneline --abbrev-commit --graph --decorate
+[merge]
+	tool = meld
